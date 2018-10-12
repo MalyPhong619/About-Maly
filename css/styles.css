@@ -9,16 +9,8 @@ img {
   border-radius: 50%;
 }
 
-h2 {
-  font-family: 'Monoton', cursive;
-}
-
 h3 {
   padding-left: 10px;
-  font-family: 'Monoton', cursive;
-  border: 1px dotted;
-  background:  linear-gradient(to right, #bbff99 0%, #ffec99 37%, #ff9999 100%);
-  border-radius: 6px;
 }
 
 h4 {
@@ -27,15 +19,10 @@ h4 {
 }
 .container {
   padding-top: 10px;
-  border: 1px dotted;
   background: white;
-  border-radius: 6px;
 }
 .jumbotron {
-  border: 1px dotted;
-  font-family: 'Monoton', cursive;
   font-size: 90px;
-  background:  linear-gradient(to right, #bbff99 0%, #ffec99 37%, #ff9999 100%);
 }
 
 .sidebar {
@@ -43,6 +30,24 @@ h4 {
   width: 250px;
 }
 
-.aboutMaly {
-  float: left;
+h3,
+.container {
+  border-radius: 6px;
+}
+
+h2,
+h3,
+.jumbotron {
+  font-family: 'Monoton', cursive;
+}
+
+h3,
+.jumbotron {
+  background:  linear-gradient(to right, #bbff99 0%, #ffec99 37%, #ff9999 100%);
+}
+
+h3,
+.container,
+.jumbotron {
+  border: 1px dotted;
 }
