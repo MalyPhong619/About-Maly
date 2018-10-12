@@ -24,6 +24,12 @@ span {
   font-weight: bold;
   color: #00b3b4;
 }
+a:hover {
+  color: red;
+}
+a{
+  color: #00b3b4;
+}
 .container {
   padding-top: 10px;
   background: white;
