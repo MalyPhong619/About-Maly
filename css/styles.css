@@ -1,5 +1,24 @@
+body {
+  padding: 10px;
+}
 img {
-  float: left;
-  width: 10%;
+  width: 90%;
   border-radius: 50%;
+}
+
+h3 {
+  border: 1px solid;
+}
+
+h4 {
+  border-bottom: 1px solid;
+}
+
+.container {
+  text-align: justify;
+  border: 3px dotted;
+}
+
+.aboutMaly {
+  float: left;
 }
