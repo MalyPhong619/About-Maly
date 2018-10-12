@@ -13,6 +13,9 @@ h3 {
 h4 {
   border-bottom: 1px solid;
 }
+.jumbotron{
+  background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+}
 .sidebar {
   float: left;
   width: 250px;
