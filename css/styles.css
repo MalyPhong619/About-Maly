@@ -25,7 +25,8 @@ span {
   color: #00b3b4;
 }
 a:hover {
-  color: red;
+  color: navy;
+  border: 1px dotted;
 }
 a{
   color: #00b3b4;
