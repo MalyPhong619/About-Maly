@@ -42,7 +42,7 @@ h3,
 }
 h3,
 .jumbotron {
-  background:  linear-gradient(to right, #bbff99 0%, #ffec99 37%, #ff9999 100%);
+  background:  radial-gradient(#bbff99 0%, #ffec99 37%, #ff9999 100%);
 }
 h3,
 .container,
