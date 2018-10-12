@@ -28,7 +28,7 @@ span {
   font-size: 90px;
 }
 .sidebar {
-  float: left;
+  float: right;
   width: 250px;
 }
 h3,
@@ -42,7 +42,7 @@ h3,
 }
 h3,
 .jumbotron {
-  background:  radial-gradient(#bbff99 0%, #ffec99 37%, #ff9999 100%);
+  background:  radial-gradient(#ffec99 37%, #ff9999 100%);
 }
 h3,
 .container,
