@@ -14,8 +14,10 @@ h4 {
   font-family: 'Bungee', cursive;
   border-bottom: 1px dotted;
 }
-strong {
+span {
   font-family: monospace;
+  font-style: italic;
+  font-weight: bold;
   color: #00b3b4;
 }
 .container {
