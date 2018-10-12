@@ -1,5 +1,6 @@
 body {
   padding-top: 50px;
+  text-align: justify;
 }
 img {
   width: 100%;
@@ -8,24 +9,21 @@ img {
 
 h3 {
   border: 1px solid;
+  background:  linear-gradient(to right, #bbff99 0%, #ffec99 37%, #ff9999 100%);
 }
 
 h4 {
   border-bottom: 1px solid;
 }
-.jumbotron{
-  background: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+.jumbotron {
+  font-family: 'Monoton', cursive;
+  font-size: 90px;
+  background:  linear-gradient(to right, #bbff99 0%, #ffec99 37%, #ff9999 100%);
 }
 
 .sidebar {
   float: left;
   width: 250px;
-}
-
-.container {
-  background: white;
-  text-align: justify;
-  border: 2px dotted;
 }
 
 .aboutMaly {
