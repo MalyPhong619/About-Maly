@@ -2,20 +2,31 @@ body {
   padding-top: 50px;
   text-align: justify;
 }
+
 img {
   width: 100%;
   border-radius: 50%;
 }
 
+h2 {
+  font-family: 'Monoton', cursive;
+}
+
 h3 {
-  border: 1px solid;
+  padding-left: 10px;
+  font-family: 'Monoton', cursive;
+  border: 1px dotted;
   background:  linear-gradient(to right, #bbff99 0%, #ffec99 37%, #ff9999 100%);
+  border-radius: 6px;
 }
 
 h4 {
-  border-bottom: 1px solid;
+  font-family: 'Bungee', cursive;
+  border-bottom: 1px dotted;
 }
+
 .jumbotron {
+  border: 1px dotted;
   font-family: 'Monoton', cursive;
   font-size: 90px;
   background:  linear-gradient(to right, #bbff99 0%, #ffec99 37%, #ff9999 100%);
