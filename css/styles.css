@@ -1,5 +1,5 @@
 body {
-  padding: 10px;
+  padding-top: 50px;
 }
 img {
   width: 100%;
@@ -14,15 +14,18 @@ h4 {
   border-bottom: 1px solid;
 }
 .jumbotron{
-  background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+  background: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
 }
+
 .sidebar {
   float: left;
   width: 250px;
 }
+
 .container {
+  background: white;
   text-align: justify;
-  border: 3px dotted;
+  border: 2px dotted;
 }
 
 .aboutMaly {
