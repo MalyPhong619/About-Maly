@@ -2,6 +2,7 @@ body {
   padding-top: 50px;
   text-align: justify;
   background:  #f2f2f2;
+  font-family: monospace;
 }
 img {
   width: 100%;
@@ -13,6 +14,9 @@ h3 {
 h4 {
   font-family: 'Bungee', cursive;
   border-bottom: 1px dotted;
+}
+h2 {
+  text-align: right;
 }
 span {
   font-family: monospace;
@@ -42,7 +46,7 @@ h3,
 }
 h3,
 .jumbotron {
-  background:  radial-gradient(#ffec99 37%, #ff9999 100%);
+  background:  radial-gradient(circle, #ffec99 37%, #ff9999 100%);
 }
 h3,
 .container,
