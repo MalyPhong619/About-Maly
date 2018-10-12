@@ -26,8 +26,8 @@ h4 {
   border-bottom: 1px dotted;
 }
 .container {
-  border: 1px dotted;
   padding-top: 10px;
+  border: 1px dotted;
   background: white;
   border-radius: 6px;
 }
